@@ -1,7 +1,7 @@
 const root = document.querySelector('#root');
 const cock = document.querySelector('#cock');
 const button = document.createElement('button');
-button.textContent = 'Vas-y clique moi batard';
+button.textContent = 'Clique moi';
 root.appendChild(button);
 
 // C'est la même chose que le () => 
